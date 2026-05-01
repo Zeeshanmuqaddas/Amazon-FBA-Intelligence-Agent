@@ -1,0 +1,6 @@
+{
+  "name": "Amazon FBA Intelligence Agent",
+  "description": "Multi-agent decision system for checking product opportunities and generating FBA metrics with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
