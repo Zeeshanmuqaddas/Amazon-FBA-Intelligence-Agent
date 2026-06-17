@@ -1,3 +1,7 @@
+
+Built a fully functional Amazon Product Hunting Intelligence Agent using a React dashboard integrated with Gemini 2.5 Pro, enabling real-time analysis of product metrics through a structured prompt system. The system processes user inputs, generates JSON-based WINNER/AVOID decisions, and displays insights in a clean, interactive UI with Tailwind CS
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
